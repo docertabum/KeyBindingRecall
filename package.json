@@ -23,7 +23,8 @@
       "index.html",
       "services/**/*",
       "detectors/**/*"
-    ]
+    ],
+    "publish": null
   },
   "devDependencies": {
     "active-win": "^8.2.1",
