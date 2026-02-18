@@ -3,3 +3,9 @@
 /KeyBindingRecall.iml
 /package-lock.json
 /.idea/**
+*.dmg
+*.log
+.DS_Store
+Electron.app/
+*.iml
+*.iml~
